@@ -1,0 +1,9 @@
+Date,Region,Sales_Rep,Product,Revenue,Orders
+2026-01-01,North,Rahul,Software,15000,3
+2026-01-02,South,Aman,Service,12000,2
+2026-01-03,East,Priya,Software,18000,4
+2026-01-04,West,Karan,Service,9000,1
+2026-01-05,North,Rahul,Software,20000,5
+2026-01-06,South,Aman,Service,11000,2
+2026-01-07,East,Priya,Software,17000,3
+2026-01-08,West,Karan,Service,10000,2
